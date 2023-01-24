@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PracticeKosov"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="500">
+        Title="Учебная практика - Косов" Height="350" Width="500" ResizeMode="CanMinimize" Icon="/Bufo_bufo_03-clean.jpg">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>
